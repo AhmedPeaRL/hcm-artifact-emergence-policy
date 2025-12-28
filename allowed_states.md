@@ -1,23 +1,15 @@
 ## Allowed States of Emergence
 
-An artifact may emerge only if it satisfies
-one or more of the following states:
+An artifact may emerge only under one condition:
 
-### 1. Residual Stabilizer
-Its existence reduces cognitive or systemic pressure
-even without direct use.
+The current state can no longer remain
+without becoming performative.
 
-### 2. Structural Marker
-It defines a boundary, limit, frame, or pause
-within the system.
+This is not urgency.
+This is structural saturation.
 
-### 3. Coherence Echo
-It is a natural byproduct of prior coherence,
-not the result of a production decision.
+No metric can confirm this.
+No observer can validate it.
+No system can detect it automatically.
 
-### 4. Passive Reference
-It may be consulted,
-but does not guide, instruct, or lead.
-
-Artifacts are allowed to exist.
-They do not command.
+Only non-action can precede it.
