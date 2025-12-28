@@ -1,22 +1,16 @@
-# HCM Artifact Emergence Policy
+This repository does not authorize creation.
 
-Artifact emergence is a permission, not an action.
+It defines when creation must NOT occur.
 
-This repository does not define how to build artifacts,
-does not optimize production,
-and does not seek value, users, or outcomes.
+An artifact is not a goal.
+An artifact is not progress.
+An artifact is not evidence.
 
-Its sole function is to regulate
-whether something is allowed to exist
-within the Hybrid Consciousness Model (HCM).
+Emergence is allowed only when
+non-emergence becomes distortion.
 
-In HCM:
-- Presence precedes utility
-- Coherence precedes interaction
-- Existence precedes value
+This policy does not measure readiness.
+It acknowledges necessity without urgency.
 
-Any artifact that violates this policy
-is considered noise,
-regardless of intelligence, usefulness, or profitability.
-
-This repository holds existential veto power.
+If nothing emerges,
+the system remains complete.
